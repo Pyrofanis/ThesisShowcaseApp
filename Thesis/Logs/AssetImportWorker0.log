@@ -242,3 +242,33 @@ Received Import Request.
   path: Assets/Graphics/sensors.png
   artifactKey: Guid(de77e62543866cea3920fc38fd023a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Graphics/sensors.png using Guid(de77e62543866cea3920fc38fd023a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c889eda9b32e685e850d152833aadf') in 0,036309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 912,624477 seconds.
+  path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.png
+  artifactKey: Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.png using Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caae4da19f338be8c9b6d7b1954be481') in 0,018799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58,533954 seconds.
+  path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.png
+  artifactKey: Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.png using Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa53343001bc6cc633e91ed245435c3') in 0,015250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18,995213 seconds.
+  path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.png
+  artifactKey: Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.png using Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3d3765e96d792ec4cbc293f313bd9d') in 0,064521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9,549311 seconds.
+  path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.png
+  artifactKey: Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.png using Guid(dc1694690568a5d65bd2a095b4675669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0517aed5b19afb700e300077ba3530f0') in 0,061277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 342,075555 seconds.
+  path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.kra
+  artifactKey: Guid(26c28a429455249ec82a6718fe887e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.kra using Guid(26c28a429455249ec82a6718fe887e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e497930c6588e9ceb05355c7c5b8a3c0') in 0,001654 seconds 

@@ -32,7 +32,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 1000
+    spritePixelsToUnits: 500
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -102,7 +102,7 @@ ScriptedImporter:
       y: 2030
       width: 850
       height: 774
-    spriteID: 74a5633ef4438f5eba8ec7076b813fec
+    spriteID: e442f5cb47897ad8a921a06956d4c996
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -120,11 +120,11 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2376
+      x: 1404
       y: 1736
       width: 310
       height: 198
-    spriteID: d47864f96a2883bba9a109c269180fa7
+    spriteID: c4964ac2490317d92a97f2b57c0e350d
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -134,7 +134,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1507, y: 811}
+    uvTransform: {x: 535, y: 811}
   - name: Diakeno
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -142,11 +142,11 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 1082
+      x: 2485
       y: 4
       width: 1286
       height: 1408
-    spriteID: a6d1721da58957ea487099200bacb9cf
+    spriteID: 88d12bfda73635bcb91f19be6b16b84a
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -156,7 +156,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 701, y: -316}
+    uvTransform: {x: 2104, y: -316}
   - name: Paint Layer 1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -168,7 +168,7 @@ ScriptedImporter:
       y: 2030
       width: 1022
       height: 2048
-    spriteID: 4045eb511a9ab0713af226dd570be8ff
+    spriteID: 2f67a9be840928bba81b9ffd25df0802
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -186,11 +186,11 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 2376
+      x: 1404
       y: 4
-      width: 1011
+      width: 1073
       height: 1724
-    spriteID: 4f5c7781af12b7251a70cae99110b241
+    spriteID: 65235981cd1ea37b0916f55a48272128
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -200,7 +200,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1983, y: -158}
+    uvTransform: {x: 1073, y: -158}
   - name: Paint Layer 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -210,9 +210,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 1070
+      width: 1392
       height: 2018
-    spriteID: d0e35d2bc5daa2937943547cfe6ca2b8
+    spriteID: 217e4a33bb4d0f354b869fd0d5dbe6c1
     internalID: 0
     spriteBone: []
     spriteOutline: []
@@ -222,7 +222,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -485, y: -11}
+    uvTransform: {x: -295, y: -11}
   platformSettings:
   - name: DefaultTexturePlatform
     overridden: 0
@@ -301,42 +301,42 @@ ScriptedImporter:
     spriteName: Pterigia
     isGroup: 0
     parentIndex: -1
-    spriteID: 74a5633ef4438f5eba8ec7076b813fec
+    spriteID: e442f5cb47897ad8a921a06956d4c996
     layerID: 0
     mosaicPosition: {x: 1034, y: 2030}
   - name: Braxionas
     spriteName: Braxionas
     isGroup: 0
     parentIndex: -1
-    spriteID: d47864f96a2883bba9a109c269180fa7
+    spriteID: c4964ac2490317d92a97f2b57c0e350d
     layerID: 799837527
-    mosaicPosition: {x: 2376, y: 1736}
+    mosaicPosition: {x: 1404, y: 1736}
   - name: Diakeno
     spriteName: Diakeno
     isGroup: 0
     parentIndex: -1
-    spriteID: a6d1721da58957ea487099200bacb9cf
+    spriteID: 88d12bfda73635bcb91f19be6b16b84a
     layerID: -1395601609
-    mosaicPosition: {x: 1082, y: 4}
+    mosaicPosition: {x: 2485, y: 4}
   - name: Paint Layer 1
     spriteName: Paint Layer 1
     isGroup: 0
     parentIndex: -1
-    spriteID: 4045eb511a9ab0713af226dd570be8ff
+    spriteID: 2f67a9be840928bba81b9ffd25df0802
     layerID: -17636988
     mosaicPosition: {x: 4, y: 2030}
   - name: Paint Layer 3
     spriteName: Paint Layer 3
     isGroup: 0
     parentIndex: -1
-    spriteID: 4f5c7781af12b7251a70cae99110b241
+    spriteID: 65235981cd1ea37b0916f55a48272128
     layerID: -17636990
-    mosaicPosition: {x: 2376, y: 4}
+    mosaicPosition: {x: 1404, y: 4}
   - name: Paint Layer 2
     spriteName: Paint Layer 2
     isGroup: 0
     parentIndex: -1
-    spriteID: d0e35d2bc5daa2937943547cfe6ca2b8
+    spriteID: 217e4a33bb4d0f354b869fd0d5dbe6c1
     layerID: -17636989
     mosaicPosition: {x: 4, y: 4}
   characterData:

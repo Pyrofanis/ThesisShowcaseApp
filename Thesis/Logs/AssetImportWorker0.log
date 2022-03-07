@@ -272,3 +272,139 @@ Received Import Request.
   path: Assets/Graphics/RaceWayKatopsi/tableKatopsi.kra
   artifactKey: Guid(26c28a429455249ec82a6718fe887e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Graphics/RaceWayKatopsi/tableKatopsi.kra using Guid(26c28a429455249ec82a6718fe887e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e497930c6588e9ceb05355c7c5b8a3c0') in 0,001654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1497,958837 seconds.
+  path: Assets/Graphics/laptopKatopsi.png
+  artifactKey: Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/laptopKatopsi.png using Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03e649a51c93bedfec51609e088250b') in 0,014730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21,170285 seconds.
+  path: Assets/Graphics/ServerplcKatopsi 1.png
+  artifactKey: Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/ServerplcKatopsi 1.png using Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca0b35e59d3e88ce0ed73f6c0c288db') in 0,053353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5,224935 seconds.
+  path: Assets/Graphics/ServerplcKatopsi 1.png
+  artifactKey: Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/ServerplcKatopsi 1.png using Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de584b2971e763fad0a2235910154a9b') in 0,063661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23,368254 seconds.
+  path: Assets/Graphics/ServerplcKatopsi 1.png
+  artifactKey: Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/ServerplcKatopsi 1.png using Guid(67e16f34262049a62b0244f92246dbf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2b9783043bc100e6ab8a7a8282dc6c') in 0,052636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15,083121 seconds.
+  path: Assets/Graphics/laptopKatopsi.kra
+  artifactKey: Guid(f8f0048aaaa9cc352b2a4357cf55083d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/laptopKatopsi.kra using Guid(f8f0048aaaa9cc352b2a4357cf55083d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfed95406dffe4ba3a01c79261c164e4') in 0,001388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3,484907 seconds.
+  path: Assets/Graphics/buttonsRenewed.kra
+  artifactKey: Guid(29f9736a98b451bdd81c5a7c50f44786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/buttonsRenewed.kra using Guid(29f9736a98b451bdd81c5a7c50f44786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b475aa2377e90d8df268646e76744092') in 0,001643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1,735742 seconds.
+  path: Assets/Graphics/buttonsRenewed 1.kra
+  artifactKey: Guid(fdb5851552fb87f3487291231ee25a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/buttonsRenewed 1.kra using Guid(fdb5851552fb87f3487291231ee25a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe141a53b292daec3aeb4b5b30dbafe') in 0,001643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1,656065 seconds.
+  path: Assets/Graphics/button Selection.kra
+  artifactKey: Guid(6e37318ce7be48f90ad941ef9fe8d9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/button Selection.kra using Guid(6e37318ce7be48f90ad941ef9fe8d9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3a8ad15be573d135f28fa7ab2953c3') in 0,001470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1,551733 seconds.
+  path: Assets/Graphics/button Selection 1.kra
+  artifactKey: Guid(80e7395393b313b22bf875e245b7a8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/button Selection 1.kra using Guid(80e7395393b313b22bf875e245b7a8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fcb64f6dfed8a13bdfda60acbc530ca') in 0,001505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11,196260 seconds.
+  path: Assets/Graphics/LaptopMaterial.png
+  artifactKey: Guid(21a8f95146c757a78a2ee16cd7c42c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/LaptopMaterial.png using Guid(21a8f95146c757a78a2ee16cd7c42c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b3c22555d9570450e76bdbeb1f6024') in 0,052136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12,746483 seconds.
+  path: Assets/Graphics/laptopKatopsi.png
+  artifactKey: Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/laptopKatopsi.png using Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e725172e8fbc7ec5930798e24e24108d') in 0,053786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6,323098 seconds.
+  path: Assets/Graphics/laptopKatopsi.png
+  artifactKey: Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/laptopKatopsi.png using Guid(474041b7678da3c41b4cdcc916d433d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a909fd866eca4a15be222061dd3cac74') in 0,062435 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,002798 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,383 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1384ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (1137ms)
+			LoadAssemblies (134ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (456ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (326ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2201 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92,9 MB.
+System memory in use after: 92,9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2679.
+Total: 8,801194 ms (FindLiveObjects: 0,321362 ms CreateObjectMapping: 0,156139 ms MarkObjects: 7,734516 ms  DeleteObjects: 0,586683 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1068,318042 seconds.
+  path: Assets/Graphics/kinitirasKatopsi.png
+  artifactKey: Guid(8015c10eb42565f2f902c8def1222e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/kinitirasKatopsi.png using Guid(8015c10eb42565f2f902c8def1222e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15732c068544e47709ce21690ad552b4') in 0,076745 seconds 

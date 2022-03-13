@@ -7,10 +7,12 @@ using UnityEngine.EventSystems;
 public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
 {
     private DataContainer data;
-    private ButtonsDataSO currentButt;
+    private Button currentButt;
+    private string currentText;
     private void Awake()
     {
         data = GameObject.FindObjectOfType<DataContainer>();
+        currentButt = null;
     }
 
     // Start is called before the first frame update
@@ -20,16 +22,18 @@ public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
     }
     private void FindButton()
     {
-        foreach(DataContainer.SoAndButtonsList soAndButtonsList in data.currentData)
+        foreach (DataContainer.SoAndButtonsList soAndButtonsList in data.currentData)
         {
-            foreach(Button button in soAndButtonsList.buttonsData)
+            foreach (Button button in soAndButtonsList.buttonsData)
             {
-
-                if(button.gameObject.name.ToLower().Contains(gameObject.name.ToLower()))
+                if (button.gameObject.name.ToLower().Equals(gameObject.name.ToLower()))
                 {
+                    if (button.gameObject.name != null)
+                    {
+                        currentButt = button;
+                        currentText = soAndButtonsList.sO.text;
+                    }
 
-                    currentButt.mainButton=button;
-                    currentButt.text=soAndButtonsList.sO.text;
 
                 }
 
@@ -39,14 +43,10 @@ public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
         }
 
     }
-    // Update is called once per frame
-    void Update()
-    {
 
-    }
     void IPointerClickHandler.OnPointerClick(UnityEngine.EventSystems.PointerEventData eventData)
     {
-        FindButton();
-        data.textToInteract.text=currentButt.text;
+        Debug.Log(currentButt); //debug msg
+        data.textToInteract.text = currentText;
     }
 }

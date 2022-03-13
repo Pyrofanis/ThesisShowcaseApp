@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1c8bfbb6e3372886af810a5c9b2f4c0, type: 3}
   m_Name: Motor
   m_EditorClassIdentifier: 
-  currentTxt: 
+  text: 5
+  mainButton: {fileID: 0}

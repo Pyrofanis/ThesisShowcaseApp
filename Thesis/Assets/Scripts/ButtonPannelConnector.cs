@@ -9,9 +9,11 @@ public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
     private DataContainer data;
     private Button currentButt;
     private string currentText;
+    private TextContentSizeFinder sizeAdjuster;
     private void Awake()
     {
         data = GameObject.FindObjectOfType<DataContainer>();
+        sizeAdjuster=GameObject.FindObjectOfType<TextContentSizeFinder>();
         currentButt = null;
     }
 
@@ -48,5 +50,6 @@ public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
     {
         Debug.Log(currentButt); //debug msg
         data.textToInteract.text = currentText;
+        sizeAdjuster.Orders();
     }
 }

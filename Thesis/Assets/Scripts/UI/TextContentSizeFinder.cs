@@ -14,26 +14,19 @@ public class TextContentSizeFinder : MonoBehaviour
     private void Awake()
     {
         rect = GetComponent<RectTransform>();
-        scroll=GetComponentInParent<ScrollRect>();
+        scroll = GetComponentInParent<ScrollRect>();
     }
     // Start is called before the first frame update
     void Start()
     {
         initialOffsetMax = rect.offsetMax;
-        Orders();
-
-    }
-    private void OnEnable()
-    {
-        Orders();
     }
 
     // Update is called once per frame
     void Update()
     {
-        FindTextSize();
     }
-    private void Orders()
+    public void Orders()
     {
 
         GetCurrentEnabledChild();
@@ -54,9 +47,9 @@ public class TextContentSizeFinder : MonoBehaviour
     }
     private void SetBottomSpace()
     {
-        Vector2 previousMaxVector=rect.offsetMax;
-        rect.offsetMin = new Vector2(rect.offsetMin.x,-currentVerticalSize.y+0.1f*currentVerticalSize.y);
-        rect.offsetMax= new Vector2(rect.offsetMax.x,1);
+        Vector2 previousMaxVector = rect.offsetMax;
+        rect.offsetMin = new Vector2(rect.offsetMin.x, -currentVerticalSize.y + 0.1f * currentVerticalSize.y);
+        rect.offsetMax = new Vector2(rect.offsetMax.x, 1);
         rect.ForceUpdateRectTransforms();
     }
 }

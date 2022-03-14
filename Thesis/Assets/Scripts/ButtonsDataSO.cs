@@ -6,7 +6,7 @@ using UnityEngine.UI;
 [CreateAssetMenu(fileName = "buttonsDT", menuName = "Datacontainers/Data/Buttons/buttonsDT", order = 0)]
 public class ButtonsDataSO : ScriptableObject
 {
-    [TextArea]
+    [TextArea(100, 1000)]
     public string text;
     public Button mainButton;
 }

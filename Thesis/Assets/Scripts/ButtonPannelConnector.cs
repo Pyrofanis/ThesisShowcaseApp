@@ -13,12 +13,16 @@ public class ButtonPannelConnector : MonoBehaviour, IPointerClickHandler
     private void Awake()
     {
         data = GameObject.FindObjectOfType<DataContainer>();
-        sizeAdjuster=GameObject.FindObjectOfType<TextContentSizeFinder>();
+        sizeAdjuster = GameObject.FindObjectOfType<TextContentSizeFinder>();
         currentButt = null;
     }
 
     // Start is called before the first frame update
     void Start()
+    {
+        FindButton();
+    }
+    private void OnEnable()
     {
         FindButton();
     }
